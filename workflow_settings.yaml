@@ -1,0 +1,5 @@
+defaultProject: gcp-certification-441409
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
